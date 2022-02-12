@@ -21,7 +21,7 @@ button:hover {
 }
 
 .card-grid{
-  padding: 3rem 0;
+  padding: 2rem 0;
   display:grid;
   justify-content: center;
   grid-template-columns: repeat(auto-fill, 10rem);
