@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AleEspinozama.github.io/memorama/static/css/main.7dcf91ac.css",
+    "main.js": "/AleEspinozama.github.io/memorama/static/js/main.4885150b.js",
+    "index.html": "/AleEspinozama.github.io/memorama/index.html",
+    "main.7dcf91ac.css.map": "/AleEspinozama.github.io/memorama/static/css/main.7dcf91ac.css.map",
+    "main.4885150b.js.map": "/AleEspinozama.github.io/memorama/static/js/main.4885150b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dcf91ac.css",
+    "static/js/main.4885150b.js"
+  ]
+}
