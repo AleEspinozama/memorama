@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/memorama/static/css/main.7dcf91ac.css",
-    "main.js": "/memorama/static/js/main.83977b4d.js",
+    "main.js": "/memorama/static/js/main.2cec9a66.js",
     "index.html": "/memorama/index.html",
     "main.7dcf91ac.css.map": "/memorama/static/css/main.7dcf91ac.css.map",
-    "main.83977b4d.js.map": "/memorama/static/js/main.83977b4d.js.map"
+    "main.2cec9a66.js.map": "/memorama/static/js/main.2cec9a66.js.map"
   },
   "entrypoints": [
     "static/css/main.7dcf91ac.css",
-    "static/js/main.83977b4d.js"
+    "static/js/main.2cec9a66.js"
   ]
 }
