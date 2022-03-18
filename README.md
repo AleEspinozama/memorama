@@ -7,4 +7,6 @@ And if you hae any comments you can contact me in [LinkedIn](https://www.linkedi
 
 Images:
 
-<img src="https://github.com/AleEspinozama/empleados/blob/main/images/1.JPG?raw=true" alt="Empleados"/>
+<img src="https://github.com/AleEspinozama/memorama/blob/main/public/README%20imgs/1.JPG?raw=true" alt="Empleados"/>
+<img src="https://github.com/AleEspinozama/memorama/blob/main/public/README%20imgs/2.JPG?raw=true" alt="Empleados"/>
+<img src="https://github.com/AleEspinozama/memorama/blob/main/public/README%20imgs/3.JPG?raw=true" alt="Empleados"/>
