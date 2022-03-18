@@ -1,4 +1,4 @@
-This is a little project I made for practice and for my daughter (she only played once and then asked for something else x.X)
+This is a little project I made for practice and to my daughter (she only played it once and then asked for something else x.X)
 
 It's a little memorama, made in react. 
 
