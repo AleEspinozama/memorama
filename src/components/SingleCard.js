@@ -15,7 +15,7 @@ const handleClick= () => {
         <img 
         className='back' 
         onClick={handleClick} 
-        src="https://github.com/AleEspinozama/memorama/blob/main/public/Memorama%20imgs/back.jpg?raw=true" 
+        src="https://github.com/AleEspinozama/memorama/blob/main/public/Memorama%20imgs/back_2.jpg?raw=true" 
         alt="card back"
         />
       </div>
